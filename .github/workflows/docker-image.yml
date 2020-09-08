@@ -1,4 +1,3 @@
-ines (18 sloc) 486 Bytes
 name: Publish Docker image
 on:
   release:
